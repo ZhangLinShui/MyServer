@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServer", "MyServer\MyServer.csproj", "{3A168B06-7488-45FD-93C6-4535CB12197A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFamre", "NetFamre\NetFamre.csproj", "{73DDEDA0-40BD-4D12-847F-851437BA7AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProtocol", "GameProtocol\GameProtocol.csproj", "{5AF71086-7A29-415E-BADF-8B1AB41A62A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A168B06-7488-45FD-93C6-4535CB12197A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A168B06-7488-45FD-93C6-4535CB12197A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A168B06-7488-45FD-93C6-4535CB12197A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A168B06-7488-45FD-93C6-4535CB12197A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DDEDA0-40BD-4D12-847F-851437BA7AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DDEDA0-40BD-4D12-847F-851437BA7AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DDEDA0-40BD-4D12-847F-851437BA7AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DDEDA0-40BD-4D12-847F-851437BA7AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF71086-7A29-415E-BADF-8B1AB41A62A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF71086-7A29-415E-BADF-8B1AB41A62A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF71086-7A29-415E-BADF-8B1AB41A62A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF71086-7A29-415E-BADF-8B1AB41A62A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB86B41D-7839-4F4A-A226-5E3DAFF192E6}
+	EndGlobalSection
+EndGlobal
